@@ -16,6 +16,7 @@ yarn create next-app -e https://github.com/santospatrick/nextjs-boilerplate
 - [x] [Husky (Git Hooks)](https://github.com/typicode/husky)/[Lint Staged](https://github.com/okonet/lint-staged)
 - [x] [Storybook](https://storybook.js.org/)
 - [x] [Plop (Template Generator)](https://plopjs.com/)
+- [ ] [Stylelint](https://stylelint.io/)
 - [ ] [SWR](https://swr.vercel.app/)
 
 ## Scripts
