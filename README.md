@@ -15,6 +15,7 @@ yarn create next-app -e https://github.com/santospatrick/nextjs-boilerplate
 - [x] [ESLint](https://github.com/santospatrick/eslint-config-react)/[Prettier](https://github.com/santospatrick/prettier-config)
 - [x] [Husky (Git Hooks)](https://github.com/typicode/husky)/[Lint Staged](https://github.com/okonet/lint-staged)
 - [x] [Storybook](https://storybook.js.org/)
+- [x] [Plop (Template Generator)](https://plopjs.com/)
 - [ ] [SWR](https://swr.vercel.app/)
 
 ## Scripts
